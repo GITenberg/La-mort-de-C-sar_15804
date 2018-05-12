@@ -1,0 +1,34 @@
+_repo: La-mort-de-C-sar_15804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2005-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15804'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caesar, Julius -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PQ'
+title: 'La mort de César: Tragédie'
+url: http://www.gutenberg.org/ebooks/15804
